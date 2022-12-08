@@ -1,0 +1,18 @@
+{
+    "users":[
+        {
+            "user_name":"Gulzeesh",
+            "avatar_url":"",
+            "full_name":"",
+            "email":"",
+            "password":""
+        }
+    ],
+    "posts":[
+        {
+            "des":"",
+            "gif_url":"",
+            "user_name":""
+        }
+    ]
+}
